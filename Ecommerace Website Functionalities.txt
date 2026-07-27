@@ -1,0 +1,25 @@
+->Starting with backend
+{
+    ->Making Product API
+    ->Backend Error Handling
+    ->Adding Search, Filter & Pagination to backend
+    ->Backend User & Password Authentication
+    ->Backend User Routes
+    ->Making Order API
+}
+
+->Starting Frontend
+{
+    ->Redux Implementation 
+    ->Adding All Filters in frontend
+    ->Login & Registration Component 
+    ->Loading & Updating User
+    ->Change, Forgot & Reset Password
+    ->Creating Cart Component
+    ->Receiving Payment & Creating Order
+    ->User's Order & Review
+    ->Creating Admin Routes
+}
+
+->Finalizing Before Deployment
+->Deploying on Heroku
